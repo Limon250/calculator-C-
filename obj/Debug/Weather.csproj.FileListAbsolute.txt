@@ -1,0 +1,8 @@
+D:\Programms\csharp\Weather\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+D:\Programms\csharp\Weather\Weather\obj\Debug\Weather.Calculator.resources
+D:\Programms\csharp\Weather\Weather\obj\Debug\Weather.csproj.GenerateResource.Cache
+D:\Programms\csharp\Weather\Weather\bin\Debug\Weather.exe.config
+D:\Programms\csharp\Weather\Weather\bin\Debug\Weather.exe
+D:\Programms\csharp\Weather\Weather\bin\Debug\Weather.pdb
+D:\Programms\csharp\Weather\Weather\obj\Debug\Weather.exe
+D:\Programms\csharp\Weather\Weather\obj\Debug\Weather.pdb
